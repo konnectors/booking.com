@@ -30,11 +30,11 @@
   },
   "dependencies": {
     "cozy-konnector-libs": "4.1.9",
-    "pdfjs": "2.0.0-alpha.7"
+    "pdfjs": "2.0.0-alpha.6"
   },
   "devDependencies": {
-    "copy-webpack-plugin": "4.5.1",
     "cozy-app-publish": "0.3.6",
+    "copy-webpack-plugin": "4.5.1",
     "cozy-jobs-cli": "1.0.17",
     "eslint": "4.19.1",
     "eslint-config-cozy-app": "0.5.1",
